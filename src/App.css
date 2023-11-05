@@ -1,0 +1,23 @@
+.main{
+  background-color: #f5f8f6;
+  margin: 5px;
+  border-radius: 5px;
+}
+.tableShow{
+  padding: 0;
+  margin: 0 auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.header{
+  text-align: center;
+}
+
+.table{
+  margin: auto;
+  color: aqua;
+}
